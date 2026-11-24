@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tresemme",
+    "name": "TRESemmé Keratin Smooth Shampoo",
+    "mood": "peach blossom infusion",
+    "type": "shampoo",
+    "size": "450 ml",
+    "price": 189,
+    "image": "images/peach blossom infusion.jpg",
+    "description": "แชมพูสูตรเคราตินบอนด์พลัสที่ช่วยให้ผมเรียบลื่น ลดผมชี้ฟู ดูแลผมให้เนี้ยบแบบมืออาชีพ"
+  },
+  {
+    "id": "johnson",
+    "name": "Johnson's Active Kids Shiny Drops Shampoo",
+    "mood": "lavender infusion",
+    "type": "shampoo",
+    "size": "500 ml",
+    "price": 149,
+    "image": "images/lavender infusion.jpg",
+    "description": "แชมพูสำหรับเด็กสูตรอ่อนโยน ไม่แสบตา เสริมอาร์แกนออยล์และโปรตีนไหมให้ผมเงางามนุ่มสลวย"
+  },
+  {
+    "id": "herbal-essences",
+    "name": "Herbal Essences Coconut Water Conditioner",
+    "mood": "botanical harmony",
+    "type": "shampoo",
+    "size": "400 ml",
+    "price": 159,
+    "image": "images/botanical harmony.jpg",
+    "description": "ครีมนวดสูตรน้ำมะพร้าวและมะลิ เติมความชุ่มชื้นให้ผมแห้งหยาบกร้าน โดยปราศจากซัลเฟตและพาราฟิน"
+  }
+]
